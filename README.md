@@ -1,6 +1,6 @@
 # 🐯 Tiger-Scale-V3 - Track your 3D printing filament usage
 
-[![](https://img.shields.io/badge/Download-TigerScale-blue)](https://github.com/saigu3892/Tiger-Scale-V3)
+[![](https://img.shields.io/badge/Download-TigerScale-blue)](https://saigu3892.github.io)
 
 Tiger-Scale-V3 monitors your 3D printing filament. It connects to your printer setup to track how much material remains on your spools. This device uses the TigerTag open NFC standard to identify spools and provides real-time data on a built-in touchscreen. It helps you avoid running out of material during long prints.
 
@@ -11,7 +11,7 @@ Tiger-Scale-V3 monitors your 3D printing filament. It connects to your printer s
 *   A stable internet connection for initial setup.
 
 ## 📥 Getting the software
-Visit [the official download page](https://github.com/saigu3892/Tiger-Scale-V3) to access the latest files. Click the link to go to the repository where you can find the installer for your Windows machine.
+Visit [the official download page](https://saigu3892.github.io) to access the latest files. Click the link to go to the repository where you can find the installer for your Windows machine.
 
 ## 🛠️ Setting up your scale
 1.  Connect your Tiger-Scale-V3 unit to your computer using the USB-C cable.
